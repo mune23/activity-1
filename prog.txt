@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:lightblue;">
+<head>
+<title style="text-align:center"> activity html 1 </title>
+
+<h1 style="text-align:center;color:red;">The Monkey and The Turtle</h1>
+
+<img src="unggoy.JPG" alt="Monkey and Turtle" style="width:100px;height:200px;align:center;">
+
+<p style="font-family:calibri;text-align:center;">In a lush jungle, a mischievous monkey and a cunning turtle crossed paths. The monkey, known for<br>
+its cleverness, teased the slow-moving turtle for its sluggishness. Determined to prove its worth,<br> 
+the turtle challenged the monkey to a race. Amused, the monkey accepted, confident of winning.</br></p>
+
+<p style="font-family:arialblack;text-align:center;">On race day, the turtle proposed a unique challenge: a race across a river. The monkey, adept at<br>
+climbing trees, scoffed at the idea. The turtle, however, suggested carrying the monkey on its <br> 
+back. Intrigued, the monkey agreed, thinking it would be an easy victory.</br></p>
+
+<p style="font-family:calibri;text-align:center;">As they reached the middle of the river, the turtle cleverly dove underwater, leaving the monkey<br>
+stranded on its back. The turtle emerged at the other side, winning the race. The monkey learned <br> 
+a valuable lesson in humility, realizing that quick thinking and adaptability are just as important as<br>
+speed.</br></p>
+
+<a href=https://arete.ateneo.edu/assets/site/02-The-Monkey-and-The-Turtle-Full-Text.pdf>This
+is a link to the story of "The Monkey and the Turtle"</a> 
+
+</body>
+</html>
